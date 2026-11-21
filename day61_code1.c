@@ -17,7 +17,6 @@ Output 2:
 */
 
 #include <stdio.h>
-
 int main()
 {
     int n, key, i, found = 0;
